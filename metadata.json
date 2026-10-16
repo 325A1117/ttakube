@@ -1,0 +1,6 @@
+{
+  "name": "URAYAMA FESTIVAL - ZONE INFINITY",
+  "description": "最高峰の熱狂とサイバー演出を融合した文化祭公式ポータル。公式テーマ曲『ZONE INFINITY』、インタラクティブステージ、出展企画、模擬店マップ、熱気投票を搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
